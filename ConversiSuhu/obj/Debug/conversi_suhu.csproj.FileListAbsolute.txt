@@ -1,0 +1,12 @@
+D:\Fadhil\Program c#\tugas1\conversi_suhu\bin\Debug\conversi_suhu.exe.config
+D:\Fadhil\Program c#\tugas1\conversi_suhu\bin\Debug\conversi_suhu.exe
+D:\Fadhil\Program c#\tugas1\conversi_suhu\bin\Debug\conversi_suhu.pdb
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.csprojAssemblyReference.cache
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.Form1.resources
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.Properties.Resources.resources
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.csproj.GenerateResource.cache
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.csproj.CoreCompileInputs.cache
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.exe
+D:\Fadhil\Program c#\tugas1\conversi_suhu\obj\Debug\conversi_suhu.pdb
+D:\Kuliah\Portofolio\Program c#(S3)\2. ConversiSuhu\Conversi Suhu\ConversiSuhu\obj\Debug\conversi_suhu.exe
+D:\Kuliah\Portofolio\Program c#(S3)\2. ConversiSuhu\Conversi Suhu\ConversiSuhu\obj\Debug\conversi_suhu.pdb
